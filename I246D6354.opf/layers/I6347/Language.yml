@@ -1,0 +1,114 @@
+id: 80e371279e834259a933d9dad7021357
+annotation_type: Language
+revision: '00001'
+annotations:
+  57bbbbd2bdef4a839856315d709c42b2:
+    span:
+      start: 37
+      end: 161
+    language: en
+  50b8ef084ad1469b8ca1bc06bafd8ff2:
+    span:
+      start: 195
+      end: 233
+    language: en
+  00b81fb5c6e24960984506d40e2f2b0d:
+    span:
+      start: 253
+      end: 2318
+    language: en
+  13f589d430ca4d9fbd82c9e5b27059fe:
+    span:
+      start: 2319
+      end: 2520
+    language: sa-Deva
+  f3231d248f074acd81b83967e7a55c54:
+    span:
+      start: 2521
+      end: 4427
+    language: en
+  159f1c3775d74e0694e21d41d2c038b7:
+    span:
+      start: 302608
+      end: 302748
+    language: en
+  f454fc2cb74e40a1a138aae30414fc10:
+    span:
+      start: 474928
+      end: 474968
+    language: en
+  419c76ea0d304135994fab9f353a7ac2:
+    span:
+      start: 477951
+      end: 478371
+    language: sa-Deva
+  ac1efbb283a04e63aefb93c2262232c1:
+    span:
+      start: 490180
+      end: 490235
+    language: sa-Deva
+  e5401ca2810f447ba6846ef012f03865:
+    span:
+      start: 502083
+      end: 502104
+    language: sa-Deva
+  7ca33bf1ede34c9c87dff71a79901408:
+    span:
+      start: 502225
+      end: 502260
+    language: sa-Deva
+  b18cb29b9ad04dba93951ff192dd0fb9:
+    span:
+      start: 503369
+      end: 503434
+    language: sa-Deva
+  2dc54559836541f7b96260bdb9f05b49:
+    span:
+      start: 503519
+      end: 503552
+    language: sa-Deva
+  f3bbc2ef8e6d4b51bfe4879fae9aa87d:
+    span:
+      start: 503624
+      end: 503648
+    language: sa-Deva
+  321b7d341d7c4859933bc1c312d33df8:
+    span:
+      start: 504794
+      end: 504826
+    language: sa-Deva
+  93b954a476d748ce90edfd80d3bd6d7f:
+    span:
+      start: 504856
+      end: 504898
+    language: sa-Deva
+  d8dd9fade3f7465197697a32b07a7bf5:
+    span:
+      start: 506205
+      end: 506241
+    language: sa-Deva
+  fe085a5acf64404e99d0c14bde1d0345:
+    span:
+      start: 519308
+      end: 519334
+    language: sa-Deva
+  c17449c566d7422cb333dd53545f9e1e:
+    span:
+      start: 559608
+      end: 559629
+    language: sa-Deva
+  f75089c9e49348e88ad52a4cdd39aed8:
+    span:
+      start: 653794
+      end: 653868
+    language: sa-Deva
+  36fd5f3fb92e467fa5a60217d8c7081c:
+    span:
+      start: 658054
+      end: 658123
+    language: sa-Deva
+  766f562208d94a2ead8978bff29328ab:
+    span:
+      start: 668654
+      end: 668687
+    language: sa-Deva
